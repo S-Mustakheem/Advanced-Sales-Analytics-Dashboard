@@ -69,6 +69,6 @@ Designing business-focused analytics dashboards
 ***Shaik Mustakheem***
 Aspiring Power BI Developer | Data Analytics Enthusiast
 
-# Screenshots / Demos:
-Show what the dashboard looks like. ![Alt text] DAX dashboard screenshot.png
-example:  DAX dashboard screenshot.png
+# Screenshots / Demos: <img width="900" height="490" alt="DAX dashboard screenshot" src="https://github.com/user-attachments/assets/27bbb76c-3d2d-4811-b938-f6b4362d03c4" />
+
+
