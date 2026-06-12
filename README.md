@@ -71,4 +71,4 @@ Aspiring Power BI Developer | Data Analytics Enthusiast
 
 # Screenshots / Demos:
 Show what the dashboard looks like.
-example:
+example: ![Alt text] 
